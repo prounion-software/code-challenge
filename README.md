@@ -6,6 +6,15 @@ Somos uma software house de pequeno porte mas em expansão, todos trabalhamos em
 
 Ao concluir qualquer um dos desafios, envie o endereço do repositório para **contato@prounion.com.br** com o assunto `Code Challenge` e com suas informações de contato como LinkedIn, Currículo e etc.
 
+## Dados sobre a vaga
+
+|                         |                 |
+| ----------------------- | --------------- |
+| Regime de contratação   | **CLT**         |
+| Salário                 | **R$ 2.500,00** |
+| Local de trabalho       | **100% remoto** |
+| Carga horária (semanal) | **40 horas**    |
+
 <p align="center">
   <img src="./img.svg" />
 </p>
