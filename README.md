@@ -54,10 +54,6 @@ Ao concluir qualquer um dos desafios, envie o endereço do repositório para **c
 - **Documentação:** Clareza das instruções e comentários no código.
 - **Estilo:** Aparência e usabilidade da interface de usuário.
 
-### Sugestão de Tempo para Completar:
-
-- Entre 4 a 6 horas para desenvolvimento.
-
 ---
 
 ### Desafio 02: Sistema de Gerenciamento de Usuários
@@ -112,7 +108,3 @@ Ao concluir qualquer um dos desafios, envie o endereço do repositório para **c
 - **Uso de Docker:** Configuração correta e eficiente dos containers.
 - **Documentação:** Clareza das instruções e comentários no código.
 - **Estilo:** Aparência e usabilidade da interface de usuário.
-
-### Sugestão de Tempo para Completar:
-
-- Entre 6 a 8 horas para desenvolvimento.
