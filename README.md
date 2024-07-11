@@ -8,12 +8,10 @@ Ao concluir qualquer um dos desafios, envie o endereço do repositório para **c
 
 ## Dados sobre a vaga
 
-|                         |                 |
-| ----------------------- | --------------- |
-| Regime de contratação   | **CLT**         |
-| Salário                 | **R$ 2.500,00** |
-| Local de trabalho       | **100% remoto** |
-| Carga horária (semanal) | **40 horas**    |
+- Regime de contratação: **CLT**
+- Salário: **R$ 2.500,00**
+- Local de trabalho: **100% remoto**
+- Carga horária (semanal): **40 horas**
 
 <p align="center">
   <img src="./img.svg" />
