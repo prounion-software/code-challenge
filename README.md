@@ -12,7 +12,16 @@ Ao concluir os desafios, envie o endereço dos repositórios para **contato@prou
 - Salário: **R$ 2.500,00**;
 - Local de trabalho: **100% remoto**;
 - Carga horária (semanal): **40 horas**;
-- **Não é necessário ensino superior**, mas deve ter conhecimento suficiente para entregar os desafios abaixo.
+
+#### Dúvidas gerais
+
+- **Ensino**: _Não é necessário ensino superior_, mas deve ter conhecimento suficiente para entregar os desafios abaixo;
+- **Preciso realizar os dois desafios?**: Sim, os dois são importantes para entendermos quais conhecimentos você domina e de que forma organiza seu código;
+- **Até quando posso mandar desafios?**: Por enquanto não há data limite, estamos aumentando gradativamente os times de desenvolvimento. Envie seu projeto assim que se sentir confiante em apresentá-los;
+- **Posso colocar esses projetos no meu portfólio?**: Sim, com certeza. Na verdade, nós recomendamos que monte um portfólio para você com estes e outros projetos que achar interessante.
+- **O que vem depois?**:
+  - Todos que cumprirem os requisitos dos projetos receberam um feedback a respeito;
+  - Aos que se destacarem, serão convidados para uma entrevista via Google Meet para um bate-papo técnico e apresentação da empresa;
 
 <p align="center">
   <img src="./img.svg" />
