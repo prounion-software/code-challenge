@@ -19,6 +19,9 @@ Ao concluir os desafios, envie o endereço dos repositórios para **contato@prou
 - **Preciso realizar os dois desafios?**: Sim, os dois são importantes para entendermos quais conhecimentos você domina e de que forma organiza seu código;
 - **Até quando posso mandar desafios?**: Por enquanto não há data limite, estamos aumentando gradativamente os times de desenvolvimento. Envie seu projeto assim que se sentir confiante em apresentá-los;
 - **Posso colocar esses projetos no meu portfólio?**: Sim, com certeza. Na verdade, nós recomendamos que monte um portfólio para você com estes e outros projetos que achar interessante.
+- **Posso fazer alterações no projeto, por exemplo trocar o ExpressJS pelo Koa.JS?**: _Claro que sim, desde que não altere as funcionalidades solicitadas na aplicação_ e descreva o motivo dessa alteração em relação ao escopo no README.md. Caso contrário, o avaliador irá acreditar que você não seguiu os requisitos.
+- **Posso adicionar funcionalidades não solicitadas, como adicionar uma documentação do Swagger?**: Pode, porém o que será avaliado primariamente são os requisitos solicitados. Concentre-se nos requisitos primeiro, cuidado com _**overengineering**_.
+- **Preciso deixar a aplicação "rodando", no ar em algum serviço tipo Vercel?**: Não.
 - **O que vem depois?**:
   - Todos que cumprirem os requisitos dos projetos receberam um feedback a respeito;
   - Aos que se destacarem, serão convidados para uma entrevista via Google Meet para um bate-papo técnico e apresentação da empresa;
