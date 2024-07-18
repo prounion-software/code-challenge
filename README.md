@@ -16,6 +16,7 @@ Ao concluir os desafios, envie o endereço dos repositórios para **contato@prou
 #### Dúvidas gerais
 
 - **Ensino**: _Não é necessário ensino superior_, mas deve ter conhecimento suficiente para entregar os desafios abaixo;
+- **Posso me candidatar como estagiário ou trainee?**: Não, no momento não estamos com algum programa de estágio aberto.
 - **Preciso realizar os dois desafios?**: Sim, os dois são importantes para entendermos quais conhecimentos você domina e de que forma organiza seu código;
 - **Até quando posso mandar desafios?**: Por enquanto não há data limite, estamos aumentando gradativamente os times de desenvolvimento. Envie seu projeto assim que se sentir confiante em apresentá-los;
 - **Posso colocar esses projetos no meu portfólio?**: Sim, com certeza. Na verdade, nós recomendamos que monte um portfólio para você com estes e outros projetos que achar interessante.
