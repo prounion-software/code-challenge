@@ -1,5 +1,26 @@
 # Code Challenge para posição de Programador Node Jr. na [ProUnion](https://prounion.com.br)
 
+<p style="text-align:center">
+   <h2>🚨⚠️🚨⚠️🚨⚠️🚨⚠️ Atenção ⚠️🚨⚠️🚨⚠️🚨⚠️🚨</h2>
+</p>
+
+**Update: 31/07/2024**
+
+Devido a grande quantidade de candidaturas, estamos pausando novas avaliações.
+
+Neste momento estamos realizando as entrevistas e processos seletivos de quem já se candidatou, e todos sem exceção são muito talentosos e competentes, realizaram os desafios com maestria. Isso nos deixa muito contentes, saber que temos grandes talentos chegando na nossa área de desenvolvimento de software.
+
+Você ainda pode mandar seus desafios, mas nosso foco atual será organizar o time com o pessoal que está chegando, para uma próxima oportunidade buscar dentre aos demais que resolveram esses desafios.
+
+Atenciosamente,<br>
+**Equipe ProUnion**
+
+<p style="text-align:center">
+   <h2>🚨⚠️🚨⚠️🚨⚠️🚨⚠️🚨⚠️🚨⚠️🚨⚠️🚨⚠️🚨</h2>
+</p>
+
+---
+
 Os dois desafios listados abaixo são seu ingresso para a candidatura para vagas de programador Node Jr. na [ProUnion](https://prounion.com.br).
 
 Somos uma software house de pequeno porte mas em expansão, todos trabalhamos em home office.
